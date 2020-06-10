@@ -1,5 +1,5 @@
 # Live Questions
-A React-Redux application that allows a user to keep track of questions asked, question answered **( Created by you & other users )**, questions unanswered. and allows a logged in user to create new questions.
+A React-Redux application that allows a user to keep track of questions asked, question answered **( Created by you & other users )**, questions unanswered. and allows a logged in user to create new questions. You can access the demo here [Demo](https://live-questions.netlify.app/).
 
 ## Installation
 You can get the project up and running by following in order the processes outlined below:
