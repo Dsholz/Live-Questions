@@ -1,4 +1,4 @@
-# Would You Rather
+# Live Questions
 A React-Redux application that allows a user to keep track of questions asked, question answered **( Created by you & other users )**, questions unanswered. and allows a logged in user to create new questions.
 
 ## Installation
@@ -19,10 +19,10 @@ On running the project you are required to login after which you'll get access t
 **N.B :** The application allows only a predefined list of users to login for now as there is not yet functionality to create new users.
 
 ## Tools
-Would You Rather was built with React. The app also uses:
+Live Questions was built with React. The app also uses:
 
 `Redux` to manage the application's state more effectively
 `React-Router` to dynamically route pages so a user can have access to usage history.
 
 ## Contributions
-Would You Rather is built by Daniel Soladoye.
+Live Questions is built by Daniel Soladoye.
